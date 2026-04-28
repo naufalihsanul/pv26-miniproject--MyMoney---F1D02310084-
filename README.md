@@ -19,7 +19,7 @@ MyMoney adalah aplikasi pencatat keuangan pribadi yang memungkinkan pengguna unt
 | SQLite | Database lokal untuk penyimpanan data |
 | QSS | Styling tampilan (mirip CSS) |
 
-## 📁 Struktur Project
+## 📁 Struktur Project nya
 
 ```
 UTS_PEMVIS/
